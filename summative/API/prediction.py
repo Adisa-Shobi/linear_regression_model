@@ -316,7 +316,7 @@ data_columns = ['agricultural_land',
 
 def load_data():
     data = pd.read_csv(
-        'data\world_bank_development_indicators.csv')
+        'data/world_bank_development_indicators.csv')
     return data
 
 
