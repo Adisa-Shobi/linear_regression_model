@@ -136,3 +136,9 @@ Structure:
     - Log10 transformation of GDP per capita (GDP_current_US/population)
 - **year** : int
     - Extracted year from date column
+
+# API
+[Docs](https://linear-regression-model-4ns3.onrender.com/docs#/default/get_countries_countries_get)
+
+# Demo Video
+[See here](https://youtu.be/rskLyEF9e-Y)
